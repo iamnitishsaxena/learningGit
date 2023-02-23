@@ -1,0 +1,3 @@
+division is an arithmetic operation
+
+Ex: 4/2 = 2
