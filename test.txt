@@ -1,6 +1,0 @@
-Hello world
-
-
-command to push code on github: git push -u origin master or main
-
-git branch -M master
